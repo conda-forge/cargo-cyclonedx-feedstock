@@ -40,9 +40,9 @@ tests:
       - cargo-cyclonedx --help
 
 about:
-  homepage: https://github.com/cyclonedx/cyclonedx/cargo-cyclonedx
-  repository: https://github.com/cyclonedx/cyclonedx/cargo-cyclonedx
-  documentation: https://github.com/cyclonedx/cyclonedx/cargo-cyclonedx
+  homepage: https://github.com/cyclonedx/cyclonedx-rust-cargo
+  repository: https://github.com/cyclonedx/cyclonedx-rust-cargo
+  documentation: https://github.com/cyclonedx/cyclonedx-rust-cargo
   summary: Creates CycloneDX Software Bill of Materials (SBOM) from Rust (Cargo) projects
   license: Apache-2.0
   license_file:

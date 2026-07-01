@@ -47,6 +47,7 @@ about:
   license: Apache-2.0
   license_file:
     - LICENSE
+    - NOTICE
     - THIRDPARTY.yml
 
 
